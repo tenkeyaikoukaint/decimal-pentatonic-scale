@@ -30,5 +30,7 @@ returning to a "Pythagorean" ideal where harmony is a direct reflection of whole
 4. Why Pentatonic?The 5-tone restriction is intentional. By removing the "leading tones" 
 and tritone-forming notes of a full 7-tone scale, we eliminate dissonance. 
 Every combination of these five frequencies results in a stable, crystalline 
-resonance.5. Potential ApplicationsPure Tone Synthesis: Ideal for testing the limits of human perception using pure sine waves.Ambient/Generative Music: Creating soundscapes that feel "static" and "ordered."Mathematical Education: 
+resonance.5. Potential ApplicationsPure Tone Synthesis: Ideal for testing the limits of 
+human perception using pure sine waves.Ambient/Generative Music: Creating 
+soundscapes that feel "static" and "ordered."Mathematical Education: 
 Visualizing the relationship between frequency, decimals, and geometry (Lissajous curves).
